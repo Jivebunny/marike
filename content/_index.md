@@ -1,6 +1,6 @@
 +++
-title = "HCM FINANCE"
-tagline = "Zelfstandig Financieel Controller"
+title = "Zelfstandig Financieel Controller"
+tagline = "HCM FINANCE"
 draft = false
 +++
 
