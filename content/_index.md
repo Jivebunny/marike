@@ -10,15 +10,15 @@ Zoekt u een ervaren zelfstandig financieel controller die snel overzicht brengt,
 
 ## Wat ik voor uw organisatie kan betekenen
 
-* [Managementrapportages & KPI-dashboarding](content/posts/management-rapportages-kpi-dashboarding.html): Heldere maand- en kwartaalcijfers, marge-analyses en stuurinformatie waarmee u direct onderbouwde beslissingen neemt.
+* [Managementrapportages & KPI-dashboarding](posts/management-rapportages-kpi-dashboarding.html): Heldere maand- en kwartaalcijfers, marge-analyses en stuurinformatie waarmee u direct onderbouwde beslissingen neemt.
 
-* [Begroting, prognoses & cashflow](content/posts/begroting-prognoses-cashflow.html): Opstellen en bijsturen van budgetten, liquiditeitsprognoses (cashflow forecasts) en scenario's voor groei of verandering.
+* [Begroting, prognoses & cashflow](posts/begroting-prognoses-cashflow.html): Opstellen en bijsturen van budgetten, liquiditeitsprognoses (cashflow forecasts) en scenario's voor groei of verandering.
 
-* [Maand-, kwartaal- en jaarafsluiting](content/posts/maand-kwartaal-jaarafsluiting.html): Zorgvuldige afsluitingen, aansluiting van de administratie en een soepele voorbereiding op de accountantscontrole.
+* [Maand-, kwartaal- en jaarafsluiting](/posts/maand-kwartaal-jaarafsluiting.html): Zorgvuldige afsluitingen, aansluiting van de administratie en een soepele voorbereiding op de accountantscontrole.
 
-* [Interne controle & procesverbetering](content/posts/interne-controle-procesverbetering.html): Inrichten en optimaliseren van financiële processen, autorisaties en administratieve organisatie (AO/IC) om fouten en risico's te verlagen.
+* [Interne controle & procesverbetering](/posts/interne-controle-procesverbetering.html): Inrichten en optimaliseren van financiële processen, autorisaties en administratieve organisatie (AO/IC) om fouten en risico's te verlagen.
 
-* [Tijdelijke vervanging & projectondersteuning](content/posts/tijdelijke-vervanging-projectondersteuning.html): Direct inzetbaar bij zwangerschapsverlof, ziekte, vacatures, ERP-migraties, herstructureringen of overnames.
+* [Tijdelijke vervanging & projectondersteuning](/posts/tijdelijke-vervanging-projectondersteuning.html): Direct inzetbaar bij zwangerschapsverlof, ziekte, vacatures, ERP-migraties, herstructureringen of overnames.
 
 ## Waarom samenwerken met een zelfstandig controller?
 
