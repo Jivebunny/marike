@@ -12,7 +12,7 @@ Zoekt u een ervaren zelfstandig financieel controller die snel overzicht brengt,
 
 * [Managementrapportages & KPI-dashboarding](content/posts/management-rapportages-kpi-dashoboarding.html): Heldere maand- en kwartaalcijfers, marge-analyses en stuurinformatie waarmee u direct onderbouwde beslissingen neemt.
 
-* Begroting, prognoses & cashflow: Opstellen en bijsturen van budgetten, liquiditeitsprognoses (cashflow forecasts) en scenario's voor groei of verandering.
+* [Begroting, prognoses & cashflow](/content/posts/begroting-prognoses-cashflow.html): Opstellen en bijsturen van budgetten, liquiditeitsprognoses (cashflow forecasts) en scenario's voor groei of verandering.
 
 * Maand-, kwartaal- en jaarafsluiting: Zorgvuldige afsluitingen, aansluiting van de administratie en een soepele voorbereiding op de accountantscontrole.
 
