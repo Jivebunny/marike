@@ -12,7 +12,7 @@ Wat is het verschil tussen boekhouding en stuurinformatie?
 Een klassieke boekhouding is primair ingericht op fiscale aangiften, jaarrekeningen en compliance. Die informatie is noodzakelijk, maar vertelt vaak pas weken na afloop van een periode hoe het ervoor stond. Stuurinformatie kijkt vooruit en koppelt financiële data aan operationele drivers: hoeveel offertes zijn er uitgebracht, wat is de bezettingsgraad per team, hoe ontwikkelen de inkoopprijzen zich en waar lekt marge weg?
 
 Een zelfstandig financieel controller overbrugt de kloof tussen de administratie (of het boekhoudkantoor) en de directie. Door vaste rapportagecycli, eenduidige definities en overzichtelijke dashboards in te richten, krijgt u geen stapel losse tabellen, maar een compact overzicht van wat er werkelijk toe doet voor cashflow, winstgevendheid en groei.
-Heldere maand- en kwartaalcijfers zonder ruis
+Heldere maand- en kwartaalcijfers zonder ruis.
 
 Betrouwbare sturing begint bij voorspelbare, tijdige en controleerbare maand- en kwartaalrapportages. In de praktijk zie ik vaak dat directies moeten kiezen tussen snelle maar onvolledige cijfers of late cijfers die tegen de tijd dat ze op tafel liggen al zijn achterhaald.
 
