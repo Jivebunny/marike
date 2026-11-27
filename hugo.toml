@@ -2,6 +2,7 @@
 baseURL = "https://jivebunny.github.io/"
 locale = "nl-NL"
 title = "Marike Holtmaat - Corver | Zelfstandig Financial Controller"
+description = "Zelfstandig Financieel Controlle Marike Holtmaat - Corver heeft meer dan 14 jaar ervaring als Accountant, Auditor en Controller"
 theme = "split"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
