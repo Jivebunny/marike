@@ -202,6 +202,8 @@ a {
 }
 
 .logo {
+  width:150px;
+  height:220px;
   position:-webkit-absolute;
   position:absolute;
   top:0;
@@ -214,11 +216,13 @@ a {
   -webkit-flex:0 auto;
   -ms-flex:0 auto;
   flex:0 auto;
-  background-image:url(../images/logo.jpg);
+  background-image:url(../images/logo.png);
   background-position:50%;
   background-size:cover;
   -o-object-fit:cover;
-  object-fit:cover
+  object-fit:cover;
+  z-index:1;
+  content:""
 }
 
 @media screen and (max-width: $bp-smallish) {
