@@ -269,6 +269,31 @@ a {
     min-height: auto;
     background-position: $image-position;
   }
+
+.logo {
+  width:100px;
+  height:150px;
+  position:-webkit-absolute;
+  position:absolute;
+  top:0;
+  right:0;
+  display:block;
+  margin: 15px;
+  -webkit-align-self:flex-start;
+  -ms-flex-item-align:start;
+  align-self:flex-start;
+  -webkit-box-flex:0;
+  -webkit-flex:0 auto;
+  -ms-flex:0 auto;
+  flex:0 auto;
+  background-image:url(../images/logo.png);
+  background-position:50%;
+  background-size:cover;
+  -o-object-fit:cover;
+  object-fit:cover;
+  z-index:1;
+  content:""
+}
 }
 
 @media screen and (max-width: $bp-tablet) {
