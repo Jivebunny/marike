@@ -14,7 +14,7 @@ Zoekt u een ervaren zelfstandig financieel controller die snel overzicht brengt,
 
 * [Begroting, prognoses & cashflow](/content/posts/begroting-prognoses-cashflow.html): Opstellen en bijsturen van budgetten, liquiditeitsprognoses (cashflow forecasts) en scenario's voor groei of verandering.
 
-* Maand-, kwartaal- en jaarafsluiting: Zorgvuldige afsluitingen, aansluiting van de administratie en een soepele voorbereiding op de accountantscontrole.
+* [Maand-, kwartaal- en jaarafsluiting](/content/posts/maand-kwartaal-jaarafsluiting.html): Zorgvuldige afsluitingen, aansluiting van de administratie en een soepele voorbereiding op de accountantscontrole.
 
 * Interne controle & procesverbetering: Inrichten en optimaliseren van financiële processen, autorisaties en administratieve organisatie (AO/IC) om fouten en risico's te verlagen.
 
