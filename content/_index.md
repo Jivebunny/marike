@@ -18,7 +18,7 @@ Zoekt u een ervaren zelfstandig financieel controller die snel overzicht brengt,
 
 * [Interne controle & procesverbetering](content/posts/interne-controle-procesverbetering.html): Inrichten en optimaliseren van financiële processen, autorisaties en administratieve organisatie (AO/IC) om fouten en risico's te verlagen.
 
-* Tijdelijke vervanging & projectondersteuning: Direct inzetbaar bij zwangerschapsverlof, ziekte, vacatures, ERP-migraties, herstructureringen of overnames.
+* [Tijdelijke vervanging & projectondersteuning](content/posts/tijdelijke-vervanging-projectondersteuning.html): Direct inzetbaar bij zwangerschapsverlof, ziekte, vacatures, ERP-migraties, herstructureringen of overnames.
 
 ## Waarom samenwerken met een zelfstandig controller?
 
