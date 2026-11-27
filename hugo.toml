@@ -86,39 +86,39 @@ copyright = "&copy;2026 Marike Holtmaat - Corver"
         new_tab = true # new tab
   
   # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
+  #[[params.links]]
+  #  [params.links.list2]
+  #    heading = "Social"
 
-      [[params.links.list2.link]]
-        text = "Linkedin"
-        url = "https://www.linkedin.com/in/marike-holtmaat-corver-5b849149/"
-        new_tab = true # new tab
+  #    [[params.links.list2.link]]
+  #      text = "Linkedin"
+  #      url = "https://www.linkedin.com/in/marike-holtmaat-corver-5b849149/"
+  #      new_tab = true # new tab
 
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
+  #    [[params.links.list2.link]]
+  #      text = "Instagram"
+  #      url = "#"
 
-      [[params.links.list2.link]]
-        text = "Youtube"
-        url = "#"
+  #    [[params.links.list2.link]]
+  #      text = "Youtube"
+  #      url = "#"
 
   # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Portfolio"
+  #[[params.links]]
+  #  [params.links.list3]
+  #    heading = "Portfolio"
 
-       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+  #     [[params.links.list3.link]]
+  #      text = "Link One"
+  #      url = "#"
 
-     [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
+  #   [[params.links.list3.link]]
+  #      text = "Link Two"
+  #      url = "#"
 
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+  #    [[params.links.list3.link]]
+  #      text = "Link Three"
+  #      url = "#"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
