@@ -19,7 +19,7 @@ a {
   animation: $animation-name $animation-duration;
 }
 
-.rightcontent {
+.leftcontent {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -126,7 +126,7 @@ a {
   font-size: 13px;
 }
 
-.leftcontent {
+.rightcontent {
   overflow: auto;
   padding: 120px;
   -webkit-box-orient: vertical;
@@ -226,7 +226,7 @@ a {
 }
 
 @media screen and (max-width: $bp-smallish) {
-  .rightcontent {
+  .leftcontent {
     display: block;
     -o-object-position: 50% 0%;
     object-position: 50% 0%;
@@ -236,7 +236,7 @@ a {
     display: block;
   }
 
-  .leftcontent {
+  .rightcontent {
     padding-top: 120px;
     padding-bottom: 120px;
   }
@@ -275,7 +275,7 @@ a {
     margin-bottom: 20px;
   }
 
-  .leftcontent {
+  .rightcontent {
     padding: 60px;
   }
 }
