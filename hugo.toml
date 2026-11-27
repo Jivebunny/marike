@@ -77,7 +77,7 @@ copyright = "&copy;2026 Marike Holtmaat - Corver"
 
       [[params.links.list1.link]]
         text = "E-mail"
-        url = "mailto:marike_corver@hotmail.com"
+        url = "mailto:m.holtmaat@hcmfinance.nl"
         new_tab = false # Default, open at same tab
       
       [[params.links.list1.link]]
