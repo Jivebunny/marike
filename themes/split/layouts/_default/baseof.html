@@ -11,23 +11,9 @@
 
     <!-- Media Side -->
     <div class="leftcontent w-col w-col-6 w-col-stack">
+
       <a href="{{ .Site.BaseURL }}"><div class="logo"></div></a>
-    <!-- Image -->
-    {{ if .Params.visual.image.enable | default .Site.Params.visual.image.enable }}
-
-      <div class="image"></div>
-
-    <!-- Video -->
-    {{ else if .Params.visual.video.enable | default .Site.Params.visual.video.enable }}
-
-      {{ partial "video" . }}
-
-    {{ end }}
-    </div>
-
-    <!-- Content Side -->
-    <div class="rightcontent w-col w-col-6 w-col-stack">
-
+      
       <div class="content">
         <!-- Intro -->
         {{ partial "intro" . }}
@@ -40,6 +26,25 @@
 
         <!-- Credit -->
         {{ partial "credit" . }}
+      </div>
+
+    </div>
+
+    <!-- Content Side -->
+    <div class="rightcontent w-col w-col-6 w-col-stack">
+
+      <!-- Image -->
+    {{ if .Params.visual.image.enable | default .Site.Params.visual.image.enable }}
+
+      <div class="image"></div>
+
+    <!-- Video -->
+    {{ else if .Params.visual.video.enable | default .Site.Params.visual.video.enable }}
+
+      {{ partial "video" . }}
+
+    {{ end }}
+    
       </div>
 
     </div>
