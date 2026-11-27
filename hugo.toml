@@ -21,7 +21,7 @@ copyright = "&copy;2026 Marike Holtmaat - Corver"
 [services]
   [services.googleAnalytics]
     # Enter your tracking code to enable Google Analytics
-    ID = "GTM-5C5N6T2G"
+    ID = "G-2RR0H98VNC"
 
 [params]
 
