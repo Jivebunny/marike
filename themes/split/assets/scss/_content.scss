@@ -302,6 +302,16 @@ a {
     height: 240px;
     max-height: 30vh;
   }
+  .logo {
+    width:20px;
+    height:30px;
+    position:absolute;
+    right:5px;
+    top:5px;
+    margin:0px;
+    z-index: 1;
+    content:""  
+  }
 }
 
 //-------------------------------------------------------------------------------
