@@ -22,7 +22,7 @@ Zoekt u een ervaren zelfstandig financieel controller die snel overzicht brengt,
 
 ## Waarom samenwerken met een zelfstandig controller?
 
-U krijgt senior financiële expertise op afroep: scherp op de inhoud, pragmatisch in de uitvoering en prettig in de samenwerking met directie, administratie en externe adviseurs. Of het nu gaat om een paar uur per week, een project van enkele maanden of tijdelijke waarneming — we stemmen de inzet exact af op uw vraagstuk.
+U krijgt senior financiële expertise op afroep: scherp op de inhoud, pragmatisch in de uitvoering en prettig in de samenwerking met directie, administratie en externe adviseurs. Of het nu gaat om een paar uur per week, een project van enkele maanden of tijdelijke waarneming, we stemmen de inzet exact af op uw vraagstuk.
 
 Wilt u sparren over uw financiële uitdagingen of direct kennismaken? Neem vrijblijvend [contact](mailto:marike_corver@hotmail.com) op om te bespreken hoe ik uw organisatie verder kan helpen.
 
